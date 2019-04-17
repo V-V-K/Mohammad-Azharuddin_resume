@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.4.15)  17 APR 2019 23:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.4.15)  17 APR 2019 23:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -684,29 +684,29 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 55.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 57.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 55.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 57.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 55.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 55.
+(Font)              <10.95> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 55.
+(Font)              <8> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 55.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 58.
+(Font)              <6> on input line 57.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 60.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 58.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 60.
 
 
 ! LaTeX Error: There's no line here to end.
@@ -715,7 +715,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.64 \\
+l.66 \\
        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -728,21 +728,21 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.68 \\
+l.70 \\
        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
 
 (./training and internship.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 75.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 75.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
 
 
 Package rerunfilecheck Warning: File `"training and internship".out' has change
@@ -753,7 +753,7 @@ d.
 Package rerunfilecheck Info: Checksums for `"training and internship".out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 75.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
  ) 
 Here is how much of TeX's memory you used:
  7168 strings out of 493029
@@ -762,7 +762,7 @@ Here is how much of TeX's memory you used:
  10615 multiletter control sequences out of 15000+600000
  11759 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,10n,35p,397b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,10n,35p,398b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts
